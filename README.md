@@ -37,7 +37,7 @@
 <a href="https://github.com/duylongpro99/wuts-that-bash"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=duylongpro99&repo=wuts-that-bash&theme=tokyonight&hide_border=true" /></a>
 </td>
 <td valign="top">
-<a href="https://github.com/duylongpro99/hephaestus"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=duylongpro99&repo=hephaestus&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/duylongpro99/translate-side"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=duylongpro99&repo=translate-side&theme=tokyonight&hide_border=true" /></a>
 </td>
 </tr>
 <tr>
