@@ -1,5 +1,5 @@
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:1e231f,50:3d4a3a,100:c8693c&height=220&section=header&text=crisD92&fontSize=70&fontColor=e6dfcc&animation=twinkling" /><img src="https://capsule-render.vercel.app/api?type=venom&color=0:e9e2d0,50:b9c7a6,100:dc9a72&height=220&section=header&text=crisD92&fontSize=70&fontColor=2f3a2c&animation=twinkling" width="100%" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" /><img src="assets/header-light.svg" width="100%" alt="crisD92" /></picture>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ I build small tools, mostly ones I wanted for myself: a faster way to find that 
 <td width="50%" valign="top">
 
 #### Stack
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,go,rust,bash,react,nextjs,docker,aws,postgres&perline=5&theme=dark" /><img src="https://skillicons.dev/icons?i=py,ts,go,rust,bash,react,nextjs,docker,aws,postgres&perline=5&theme=light" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cgo%2Crust%2Cbash%2Creact%2Cnextjs%2Cdocker%2Caws%2Cpostgres&perline=5&theme=dark" /><img src="https://skillicons.dev/icons?i=py,ts,go,rust,bash,react,nextjs,docker,aws,postgres&perline=5&theme=light" /></picture>
 
 </td>
 </tr>
