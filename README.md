@@ -50,12 +50,6 @@
 </tr>
 </table>
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=duylongpro99&theme=tokyonight&no-frame=true&margin-w=8&column=6" alt="trophies" />
-</p>
-
 ## 📈 Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=duylongpro99&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&hide_border=true" width="100%" alt="activity" />
